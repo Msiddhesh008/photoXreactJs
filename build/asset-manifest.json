@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/photoXreactJs/static/css/main.3e840207.css",
+    "main.js": "/photoXreactJs/static/js/main.94c5474c.js",
+    "static/media/drone2.png": "/photoXreactJs/static/media/drone2.a1b8a8b0d65c36588b66.png",
+    "static/media/cam.png": "/photoXreactJs/static/media/cam.6d6b6c69a4c92ad18a2e.png",
+    "index.html": "/photoXreactJs/index.html",
+    "main.3e840207.css.map": "/photoXreactJs/static/css/main.3e840207.css.map",
+    "main.94c5474c.js.map": "/photoXreactJs/static/js/main.94c5474c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3e840207.css",
+    "static/js/main.94c5474c.js"
+  ]
+}
